@@ -1,0 +1,30 @@
+
+body 
+{
+ background-color:green;
+}
+
+ #container1
+{
+ height:600px;
+ width:800px;
+ background-color:green;
+ border:10px solid #b22222;
+ position:absolute;
+ top:200px;
+ left:200px;
+ text-align:center;
+}
+
+ #container2
+{
+ height:300px;
+ width:400px;
+ background-color:green;
+ border:10px solid #b22222;
+ position:relative;
+ top:150px;
+ left:200px;
+ text-align:center;
+}
+

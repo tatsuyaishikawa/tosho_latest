@@ -1,0 +1,62 @@
+
+ #back
+{
+ background-color:green;
+}
+
+ #header
+{
+ height:200px;
+ width:800px;
+ background-color:green;
+ border:10px solid #b22222;
+}
+
+ #header_box1
+{
+ height:100px;
+ width:600px;
+ background-color:green;
+ border:10px solid #b22222;
+ position:relative;
+ top:50px;
+ left:100px;
+}
+
+ #header_box2
+{
+ height:90px;
+ width:300px;
+ background-color:green;
+ border:10px solid #b22222;
+ position:relative;
+ top:-30px;
+ left:300px;
+}
+ 
+ #container
+{
+ height:600px;
+ width:800px;
+ background-color:green;
+ border:10px solid #b22222;
+ position:relative;
+}
+
+ #container_element
+{
+ background-image: url(image1.jpg);
+ width:100px;
+ height:50px;
+ background-position:center;
+}
+ 
+
+ #footer
+{
+ height:600px;
+ width:800px;
+ background-color:green;
+ border:10px solid #b22222;
+ position:relative;
+}
